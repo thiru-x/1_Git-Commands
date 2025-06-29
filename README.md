@@ -13,6 +13,7 @@ This section guides you through the core Git commands used in this project.
 To start a new Git project in an empty directory:
 
 ```bash
-mkdir my-project-name # Create a new directory (if you don't have one)
-cd my-project-name    # Navigate into the new directory
+mkdir practice-git    # This is in the Current Repositry 
+cd main.py            # Which I have pushed his from VS CODE TERMINAL (Navigate into the new directory)
 git init              # Initialize an empty Git repository
+
