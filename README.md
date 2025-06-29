@@ -1,2 +1,18 @@
-# Git-Commands
-The Basic Git Commands I Have Learned To Initialze a Rep and Push a File to it 
+# My First Git Project: Learning Basic Commands
+
+This repository is a hands-on project to learn and practice fundamental Git commands, including initialization, adding files, committing changes, branching, pushing, and pulling from a remote repository (like GitHub).
+
+---
+
+## 🚀 Getting Started with Git Basics
+
+This section guides you through the core Git commands used in this project.
+
+### 1. Initialize a New Git Repository
+
+To start a new Git project in an empty directory:
+
+```bash
+mkdir my-project-name # Create a new directory (if you don't have one)
+cd my-project-name    # Navigate into the new directory
+git init              # Initialize an empty Git repository
